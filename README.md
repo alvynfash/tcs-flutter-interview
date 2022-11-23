@@ -6,7 +6,7 @@ TCS Flutter Technical Interview
 
 ### A. List the stations
 
-- Retrieve the stations from a server http://127.0.0.1:8081/api/v1/stations.json 
+- Retrieve the stations from a server https://raw.githubusercontent.com/TCS-DS/tcs-flutter-interview-stations/master/api/v1/stations.json
 - Show all the stations in the list view. We should see for each station :
   - Station name
   - Station address
