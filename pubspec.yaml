@@ -10,6 +10,10 @@ environment:
   sdk: '>=2.18.4 <3.0.0'
 
 dependencies:
+  meta: ^1.8.0
+  bloc: ^8.0.1
+  flutter_bloc: ^8.0.1
+  api_manager: ^0.1.32
   flutter:
     sdk: flutter
   flutter_localizations:
