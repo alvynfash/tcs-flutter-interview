@@ -21,8 +21,9 @@ TCS Flutter Technical Interview
   - Station adress
   - Station brand icon
 
+
 ## Other requirements
 
-- Changes must be commited (git)
+- Changes must be commited (git) in a feature branch (feature/YOUR_NAME)
 - Code architecture is up to the interviewee
 - Design is up to the interviewee
